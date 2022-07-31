@@ -3,7 +3,7 @@ import React from 'react';
 import styled from 'styled-components';
 import palette from '../styles/palette';
 
-const index = () => {
+const Home = () => {
   return (
     <Container>
       <Image src="/images/nextJS.png" height={200} width={300} />
@@ -25,4 +25,4 @@ const Container = styled.div`
   background-color: ${palette.gray_48};
 `;
 
-export default index;
+export default Home;
