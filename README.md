@@ -15,6 +15,7 @@
 - styled-reset
 - styled-components
 - redux, redux-toolkit
+- redux-saga
 - yarn
 
 prettier, eslint, font 등 제가 많이 사용하는 형태로 작성했으니 포크 후 편하게 커스텀하여 사용하시길 바랍니다.
